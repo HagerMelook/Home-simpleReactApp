@@ -12,16 +12,16 @@ root.render(
       <h1>Welcome to My Website</h1>
       <div class="user-account">
         <span>Welcome</span>
-        <a href="./public/index.html">Profile</a>
-        <a href="./public/index.html">Logout</a>
+        <a href="#">Profile</a>
+        <a href="#">Logout</a>
       </div>
     </header>
 
     <nav>
-      <a href="./public/index.html" class="active">Home</a>
-      <a href="./public/index.html">About</a>
-      <a href="./public/index.html">Services</a>
-      <a href="./public/index.html">Contact</a>
+      <a href="#" class="active">Home</a>
+      <a href="#">About</a>
+      <a href="#">Services</a>
+      <a href="#">Contact</a>
     </nav>
     <div className="banner">
       <img src={img1} alt="Banner1" />
